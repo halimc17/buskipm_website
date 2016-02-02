@@ -1,5 +1,12 @@
 /* Add here all your CSS customizations */
 
+.tanggal{
+  float:right;
+  padding-right:15px;
+}
+.infoTerbaru{
+
+}
 #map_canvas{
 	border: 1px solid #999;
 	height: 350px;
